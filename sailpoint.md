@@ -1,4 +1,4 @@
-BR
+![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
 # 🛡️ Sailpoint: Plataforma de Gestão de Identidade e Acesso (IAM)
 
 O Sailpoint é uma plataforma centralizada para gerenciar a identidade e o acesso (IAM) dos usuários em ambientes corporativos. Seu objetivo é estabelecer um sistema de controle rigoroso para a segurança digital e garantir o cumprimento das regras e leis que a empresa deve seguir.
@@ -37,7 +37,7 @@ Link: https://alliances.com.br/sailpoint-uma-plataforma-de-gerenciamento-de-iden
 
 ---
 
-GB
+![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
 # 🛡️ Sailpoint: Identity and Access Management (IAM) Platform
 
 Sailpoint is a centralized platform for managing user identity and access (IAM) in corporate environments. Its goal is to establish a strict control system for digital security and ensure compliance with the rules and laws that the company must follow.
