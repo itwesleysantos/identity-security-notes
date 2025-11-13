@@ -1,4 +1,4 @@
-![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
+![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) Versão em Português
 # 🏦 Prevenção de Crimes Financeiros e a Segurança da Informação 🛡️
 
 Este repositório é o resultado de uma **busca pró-ativa e conceitual** por conhecimento sobre **Segurança da Informação (SI)** e **Gestão de Identidades e Acessos (IAM/PAM)**.
@@ -21,11 +21,11 @@ Conceitos que abordam o controle rigoroso de quem acessa o quê e com quais priv
 
 | Conceito/Ferramenta | Descrição do Foco | Arquivo (Notas) |
 | :--- | :--- | :--- |
-| **SailPoint** | Governança de Identidades e Administração de Acessos (IGA). | [sailpoint.md](sailpoint-pt.md) |
-| **CyberArk** | Foco em Proteção de Acessos Privilegiados (PAM). | [cyberark.md](cyberark-pt.md) |
-| **PAM** | Fundamentos da gestão de acesso privilegiado. | [pam.md](pam-pt.md) |
-| **IAM** | Visão dos conceitos e pilares da gestão de identidades. | [iam.md](iam-pt.md) |
-| **MFA** | Estudos sobre a implementação de autenticação robusta. | [mfa.md](mfa-pt.md) |
+| **SailPoint** | Governança de Identidades e Administração de Acessos (IGA). | [sailpoint](sailpoint-pt.md) |
+| **CyberArk** | Foco em Proteção de Acessos Privilegiados (PAM). | [cyberark](cyberark-pt.md) |
+| **PAM** | Fundamentos da gestão de acesso privilegiado. | [pam](pam-pt.md) |
+| **IAM** | Visão dos conceitos e pilares da gestão de identidades. | [iam](iam-pt.md) |
+| **MFA** | Estudos sobre a implementação de autenticação robusta. | [mfa](mfa-pt.md) |
 
 ---
 
@@ -35,11 +35,11 @@ Foco nas plataformas utilizadas para gestão de serviços e automação.
 
 | Ferramenta | Descrição do Foco | Arquivo (Notas) |
 | :--- | :--- | :--- |
-| **ServiceNow** | Notas sobre o uso em ITSM e sua relevância para processos de segurança. | [servicenow.md](servicenow-pt.md) |
+| **ServiceNow** | Notas sobre o uso em ITSM e sua relevância para processos de segurança. | [servicenow](servicenow-pt.md) |
 
 ---
 
-![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
+![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) English Version
 # 🏦 Financial Crime Prevention and Information Security 🛡️
 
 This repository is the result of a **proactive, conceptual search** for knowledge regarding **Information Security (IS)** and **Identity and Access Management (IAM/PAM)**.
@@ -62,11 +62,11 @@ Concepts addressing the strict control over who accesses what and with which pri
 
 | Concept/Tool | Description Focus | File (Notes) |
 | :--- | :--- | :--- |
-| **SailPoint** | Identity Governance and Access Administration (IGA). | [sailpoint.md](sailpoint-en.md) |
-| **CyberArk** | Focus on Privileged Access Management (PAM). | [cyberark.md](cyberark-en.md) |
-| **PAM** | Fundamentals of privileged access management. | [pam.md](pam-en.md) |
-| **IAM** | Overview of identity management concepts and pillars. | [iam.md](iam-en.md) |
-| **MFA** | Studies on the implementation of robust authentication. | [mfa.md](mfa-en.md) |
+| **SailPoint** | Identity Governance and Access Administration (IGA). | [sailpoint](sailpoint-en.md) |
+| **CyberArk** | Focus on Privileged Access Management (PAM). | [cyberark](cyberark-en.md) |
+| **PAM** | Fundamentals of privileged access management. | [pam](pam-en.md) |
+| **IAM** | Overview of identity management concepts and pillars. | [iam](iam-en.md) |
+| **MFA** | Studies on the implementation of robust authentication. | [mfa](mfa-en.md) |
 
 ---
 
@@ -76,4 +76,4 @@ Focus on platforms used for service management and automation.
 
 | Tool | Description Focus | File (Notes) |
 | :--- | :--- | :--- |
-| **ServiceNow** | Notes on ITSM usage and its relevance to security processes. | [servicenow.md](servicenow-en.md) |
+| **ServiceNow** | Notes on ITSM usage and its relevance to security processes. | [servicenow](servicenow-en.md) |
